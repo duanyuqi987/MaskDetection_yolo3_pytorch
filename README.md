@@ -1,4 +1,4 @@
-这只是一个检测代码，不包括训练代码．权重直接使用darknethttps://pjreddie.com/darknet/　训练出来．
+这只是一个检测代码，不包括训练代码．权重直接使用 darknet https://pjreddie.com/darknet/　训练出来．
 
 此仓库已更新至最新版本。更多详细信息和注释可在代码中找到。
 
